@@ -1,0 +1,6 @@
+Programming Books
+* I have said before physical books are irreplaceable.
+* Physical books are beest for long-term principles
+* Code ready to use (RTU) needs to be copy-pasteable immediately.
+* Good website examples would be Learn You A Haskell and Learn You Some Erlang.
+* I recommend them.
