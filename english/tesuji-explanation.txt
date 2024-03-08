@@ -1,0 +1,7 @@
+Tesuji is a term from the game of Go, a strategic board game that originated in China over 2,500 years ago. It is played by two players who alternately place black and white stones on the vacant intersections of a grid of 19x19 lines. The aim is to control a larger area of the board than the opponent by the end of the game.
+
+In this context, "tesuji" is a Japanese term that means "skillful play" or "clever move." Tesuji are tactics that are typically used in a localized area of the Go board. These are specific sequences of moves that accomplish a certain objective, such as capturing enemy stones, defending one's own stones, making good shape, or exploiting the weaknesses in an opponent's position. 
+
+Good use of tesuji can make a big difference in a game of Go. Players often study collections of tesuji problems to improve their tactical skills. The ability to spot opportunities for tesuji in a game situation, and to be aware of when the opponent might be setting up a tesuji, is a key part of improving at Go. 
+
+It's worth noting that although a tesuji may be a "clever" move, it's not necessarily a flashy or complex one. Many tesuji are relatively simple sequences of moves that accomplish an important goal efficiently. The real skill in using tesuji is often in recognizing the opportunity to use them in the complex, ever-changing context of a Go game.

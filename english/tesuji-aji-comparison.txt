@@ -1,0 +1,13 @@
+Aji and tesuji are both important concepts in the game of Go, but they relate to different aspects of the game.
+
+Tesuji:
+
+Tesuji is a term that refers to a skillful or clever move or sequence of moves that accomplishes a specific objective. This can be anything from capturing enemy stones, saving one's own stones, creating or exploiting weaknesses, to improving the overall shape of one's position. The main idea behind a tesuji is tactical efficiency – getting the most out of each stone that you play. Learning to recognize opportunities for tesuji and to anticipate when the opponent might be setting one up is a key part of improving at Go.
+
+Aji:
+
+Aji, on the other hand, is a more strategic and long-term concept. The term comes from a Japanese word that means "taste" and is used in Go to refer to the potential that a position has for future play. For example, a group of stones might be dead (i.e., unable to avoid capture), but if there are a lot of unplayed moves in the vicinity that could change the situation, that group of stones is said to have "good aji."
+
+Good aji can provide opportunities for comebacks and reversals, while bad aji (where the unplayed moves would tend to worsen the situation) can lead to collapses and defeats. Managing aji – that is, making moves that preserve good aji and spoil the opponent's aji – is a critical part of high-level Go strategy.
+
+In a way, you could say that tesuji is about finding the best move in the current situation, while aji is about creating and preserving potential for finding good moves in future situations. Both concepts are critical to mastering the game of Go.
