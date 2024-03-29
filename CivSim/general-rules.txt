@@ -1,0 +1,13 @@
+1. Halve the size of the gross vehicle weight.
+2. Halve the dimensions of the longest trailer and tractor for normal transportation.
+3. Reduce the size of industrial hoses and tanks.
+4. Reduce the size of civilian cars and trucks.
+5. Reduce the standard car parking lot size.
+6. Encourage and design city infrastructure for walking, and cycling.
+7. Reduce the legal paper size, printer sizes will soon come down as well.
+8. Use only open source file formats for official documents.
+9. Reduce the physical size and materials cost of paper money notes and coins.
+10. Encourage public use desktop computers so that laptops are not even needed to move
+    around as much.
+11. Breed more fish and establish more public piers for self-consumption.
+
