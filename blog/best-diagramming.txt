@@ -1,0 +1,10 @@
+A very large booklet of papers, the size that architects use that electricians and plumbers look at. 
+
+1. Data Flow diagrams. These only use process, data stores, data flows, and external entities
+2. UML class diagrams
+3. Crow's feet ERDs
+4. decision flow charts for processes
+5. relational algebra for the database schema and up to 4NF
+6. database table relational diagram with PKs and FKs labeled
+7. state machine diagrams
+8.web UI wireframes
