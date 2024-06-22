@@ -19,3 +19,4 @@ Should there be a list of approved languages, and thus all information systems w
 Should there bea list of approved editors? Emacs and Vi mgith shine here.
 Mandatory POSIX compliant Unix operating systems only?
 
+something about indentation
