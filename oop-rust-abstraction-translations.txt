@@ -1,0 +1,99 @@
+classes to structs
+
+class Animal {
+    String name;
+    void makeSound() {
+        System.out.println("Some sound");
+    }
+}
+
+
+
+struct Animal {
+    name: String,
+}
+
+impl Animal {
+    fn make_sound(&self) {
+        println!("Some sound");
+    }
+}
+
+
+inheritance to traits
+
+class Dog extends Animal {
+    void makeSound() {
+        System.out.println("Bark");
+    }
+}
+
+trait Animal {
+    fn make_sound(&self);
+}
+
+struct Dog;
+
+impl Animal for Dog {
+    fn make_sound(&self) {
+        println!("Bark");
+    }
+}
+polymorphism via traits
+
+Animal animal = new Dog();
+animal.makeSound();  // Prints "Bark"
+
+
+fn animal_sound(animal: &dyn Animal) {
+    animal.make_sound();
+}
+
+let dog = Dog;
+animal_sound(&dog);  // Prints "Bark"
+
+
+//with enums
+
+enum Animal {
+    Dog,
+    Cat,
+}
+
+impl Animal {
+    fn make_sound(&self) {
+        match self {
+            Animal::Dog => println!("Bark"),
+            Animal::Cat => println!("Meow"),
+        }
+    }
+}
+
+let my_animal = Animal::Dog;
+my_animal.make_sound();  // Prints "Bark"
+
+
+
+
+Encapsulation 
+
+class Animal {
+    private String name;
+    public String getName() { return name; }
+    public void setName(String name) { this.name = name; }
+}
+
+pub struct Animal {
+    name: String,
+}
+
+impl Animal {
+    pub fn new(name: String) -> Self {
+        Self { name }
+    }
+
+    pub fn get_name(&self) -> &str {
+        &self.name
+    }
+}
+
