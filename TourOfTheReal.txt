@@ -1,0 +1,4 @@
+a text file of information that can be later
+tabulated for the Tour of the Real project,
+the list of North American cities of small or moderate size and
+their economic niche.
